@@ -7,5 +7,4 @@ PyPDF2==3.0.1
 sentence-transformers
 chromadb==0.4.17
 protobuf==3.20
-pysqlite3-binary
-sqlite3==3.35
+
